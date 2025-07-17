@@ -53,9 +53,9 @@ Using NASA's satellite-based GMSL dataset (with and without Glacial Isostatic Ad
 ## 📊 Model Performance Snapshot
 
 | Model               | MAE (mm) | R² Score | F1 (Class 1) |
-|--------------------|----------|----------|---------------|
+|---------------------|----------|----------|---------------|
 | Linear Regression   | 1.81     | 0.93     | N/A           |
-| ARIMA               | 9.22     | –0.84    | N/A           |
+| ARIMA               | 9.22     | –        | N/A           |
 | Logistic Regression | —        | —        | 0.54          |
 | Simulated QSVM      | —        | —        | 0.53          |
 
